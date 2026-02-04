@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/inputs/IMC_.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/inputs/jump.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/inputs/input_action.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/Input/Actions/input_action.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/Input/Actions/Ia_CROUNCH.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/sticc/OneDrive/Documentos/GitHub/CUUNREALENGINE/CUUNREALENGINE/Content/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
