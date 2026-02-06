@@ -1,9 +1,6 @@
-[11080:25064:0203/172206.832:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[11080:25064:0203/172206.834:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
-[11080:20308:0203/172206.871:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[11080:25064:0203/172206.888:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18604:19824:0203/172213.299:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4B11B1E37968515A0F7E9E09629711F3 will be ignored
-[11080:25064:0203/173452.030:ERROR:device_event_log_impl.cc(196)] [17:34:52.027] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[11080:25064:0203/173452.072:ERROR:device_event_log_impl.cc(196)] [17:34:52.053] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No se dispone de más datos. (0x103)
-[11080:25064:0203/173452.110:ERROR:device_event_log_impl.cc(196)] [17:34:52.097] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
-[11080:25064:0203/184217.146:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[27500:29436:0205/172351.929:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[27500:4556:0205/172352.005:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[27500:29436:0205/172352.046:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1636:20840:0205/172401.732:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B0DFC9E1A19DFE2DB2C4D40D7E212A66 will be ignored
+[27500:21012:0205/172405.797:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[27500:29436:0205/182529.561:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
